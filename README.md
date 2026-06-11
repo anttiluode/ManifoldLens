@@ -1,6 +1,6 @@
-Here is a comprehensive, conceptually rich README.md tailored for your GitHub repository. It captures the deep mathematics, the practical workflow, and the philosophical "ethos" of the project we've built.
-
 # **ManifoldLens**
+
+EDIT: Pretty crappy as a third manifold but interesting as a toy of complex maths. 
 
 ![manifold](manifold.png)
 
