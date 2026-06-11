@@ -1,5 +1,7 @@
 # **ManifoldLens**
 
+EDIT: New version annealed lens - better. From fable. 
+
 EDIT: Pretty crappy as a third manifold but interesting as a toy of complex maths. 
 
 ![manifold](manifold.png)
