@@ -53,16 +53,16 @@ Creating the perfect "crystal" between the Real World and the Diffusion Manifold
    ```Bash  
    git clone https://github.com/anttiluode/ManifoldLens.git  
    cd ManifoldLens
-```
+   ```
 2. Install the required libraries:  
    ```Bash  
    pip install torch torchvision torchaudio \--index-url https://download.pytorch.org/whl/cu121  
    pip install diffusers transformers accelerate opencv-python pillow numpy
-```
+   ```
 3. Run the application:  
    ```Bash  
-   python manifold\_lens.py
-```
+   python manifold_lens.py
+   ```
 
 *(Note: SDXL-Turbo weights will automatically download from HuggingFace on the first run. This may take a few minutes.)*
 
